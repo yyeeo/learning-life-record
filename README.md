@@ -1,1 +1,1 @@
-# learning-life-record
+# demo-knowledge-categories
