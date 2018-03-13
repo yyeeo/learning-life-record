@@ -507,19 +507,9 @@ https://juejin.im/entry/5aa24026f265da238b7d9ab0?utm_source=gold_browser_extensi
 https://juejin.im/entry/5aa24026f265da238b7d9ab0?utm_source=gold_browser_extension
 
 
-CSS布局解决方案（终结版）
-https://juejin.im/entry/5aa0afd1f265da239c7aec81?utm_source=gold_browser_extension
-https://juejin.im/entry/5aa0afd1f265da239c7aec81?utm_source=gold_browser_extension
-
-
 Vue 仿QQ左滑删除组件
 https://juejin.im/post/5aa3771af265da23771904d4?utm_source=gold_browser_extension
 https://juejin.im/post/5aa3771af265da23771904d4?utm_source=gold_browser_extension
-
-
-从一道Promise执行顺序的题目看Promise实现
-https://juejin.im/post/5aa3f7b9f265da23766ae5ae?utm_source=gold_browser_extension
-https://juejin.im/post/5aa3f7b9f265da23766ae5ae?utm_source=gold_browser_extension
 
 
 从零开始搭建一个vue项目
@@ -527,24 +517,51 @@ https://juejin.im/post/5a7c18d36fb9a0633e51c458?utm_source=gold_browser_extensio
 https://juejin.im/post/5a7c18d36fb9a0633e51c458?utm_source=gold_browser_extension
 
 
-SetTimeout、SetInterVal、setImmediate和process.nextTick的理解
-https://juejin.im/post/5aa0a1475188255589495c20?utm_source=gold_browser_extension
-https://juejin.im/post/5aa0a1475188255589495c20?utm_source=gold_browser_extension
-
-
-前端开发基础知识整理--CSS篇
-https://juejin.im/entry/5aa14fbc518825557459443b?utm_source=gold_browser_extension
-https://juejin.im/entry/5aa14fbc518825557459443b?utm_source=gold_browser_extension
-
-
 Vue2.0配置mint-ui踩过的那些坑
 https://juejin.im/post/5aa220d851882555686855aa?utm_source=gold_browser_extension
 https://juejin.im/post/5aa220d851882555686855aa?utm_source=gold_browser_extension
 
 
-看下 github 新仓库
+js中的事件委托或是事件代理详解
+https://juejin.im/entry/5aa23fab518825558358d491?utm_source=gold_browser_extension
+https://juejin.im/entry/5aa23fab518825558358d491?utm_source=gold_browser_extension
 
-微信的的城市服务查看社保等等
+
+2018开发最快的Webapp框架--BUI交互框架
+https://juejin.im/entry/5aa24542f265da2389255074?utm_source=gold_browser_extension
+https://juejin.im/entry/5aa24542f265da2389255074?utm_source=gold_browser_extension
+
+
+北京某雨医生前端面试汇总
+https://juejin.im/post/5aa24846f265da237e0950be?utm_source=gold_browser_extension#heading-12
+https://juejin.im/post/5aa24846f265da237e0950be?utm_source=gold_browser_extension#heading-12
+
+
+vue.js原理初探
+https://juejin.im/entry/5aa37c826fb9a028cd44b4cb?utm_source=gold_browser_extension
+https://juejin.im/entry/5aa37c826fb9a028cd44b4cb?utm_source=gold_browser_extension
+
+
+Vue 组件的通信
+https://juejin.im/post/5aa2b4adf265da23953097c2?utm_source=gold_browser_extension
+https://juejin.im/post/5aa2b4adf265da23953097c2?utm_source=gold_browser_extension
+
+
+一点关于移动端页面开发的总结
+https://juejin.im/post/5aa39d5e518825558358d8f3?utm_source=gold_browser_extension
+https://juejin.im/post/5aa39d5e518825558358d8f3?utm_source=gold_browser_extension
+
+
+Node.js框架之express与koa对比分析
+https://juejin.im/entry/5aa4aaf96fb9a028da7c26e6?utm_source=gold_browser_extension
+https://juejin.im/entry/5aa4aaf96fb9a028da7c26e6?utm_source=gold_browser_extension
+
+
+
+2018 年腾讯前端一面总结（面向 2019 届学生）
+https://juejin.im/entry/5aa7877951882555627cf46f?utm_source=gold_browser_extension
+https://juejin.im/entry/5aa7877951882555627cf46f?utm_source=gold_browser_extension
+ 
 
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
