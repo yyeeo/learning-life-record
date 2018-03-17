@@ -507,24 +507,9 @@ https://juejin.im/entry/5a9d0f05f265da239b40eb7c?utm_source=gold_browser_extensi
 https://juejin.im/entry/5a9d0f05f265da239b40eb7c?utm_source=gold_browser_extension
 
 
-一个前端岗位电话面试所带来的问题的思考
-https://juejin.im/post/5aa9c6d2f265da2384404bc1?utm_source=gold_browser_extension
-https://juejin.im/post/5aa9c6d2f265da2384404bc1?utm_source=gold_browser_extension
-
-
-Vue2.0配置mint-ui踩过的那些坑
-https://juejin.im/post/5aa220d851882555686855aa?utm_source=gold_browser_extension
-https://juejin.im/post/5aa220d851882555686855aa?utm_source=gold_browser_extension
-
-
 2018开发最快的Webapp框架--BUI交互框架
 https://juejin.im/entry/5aa24542f265da2389255074?utm_source=gold_browser_extension
 https://juejin.im/entry/5aa24542f265da2389255074?utm_source=gold_browser_extension
-
-
-vue.js原理初探
-https://juejin.im/entry/5aa37c826fb9a028cd44b4cb?utm_source=gold_browser_extension
-https://juejin.im/entry/5aa37c826fb9a028cd44b4cb?utm_source=gold_browser_extension
 
 
 Node.js框架之express与koa对比分析
@@ -532,30 +517,9 @@ https://juejin.im/entry/5aa4aaf96fb9a028da7c26e6?utm_source=gold_browser_extensi
 https://juejin.im/entry/5aa4aaf96fb9a028da7c26e6?utm_source=gold_browser_extension
 
 
-几个Js代码手写题
-https://juejin.im/post/5aa7d82c6fb9a028c522de43?utm_source=gold_browser_extension
-https://juejin.im/post/5aa7d82c6fb9a028c522de43?utm_source=gold_browser_extension
-
-
-前端面试遇到的算法题
-https://juejin.im/post/5aa7c2306fb9a028c14a24b8?utm_source=gold_browser_extension
-https://juejin.im/post/5aa7c2306fb9a028c14a24b8?utm_source=gold_browser_extension
- 
-
-身份证号码的正则表达式及验证详解
-https://juejin.im/post/5aa8d89af265da23866f9669?utm_source=gold_browser_extension
-https://juejin.im/post/5aa8d89af265da23866f9669?utm_source=gold_browser_extension
-
-
-听说你还不理解JavaScript里的闭包
-https://juejin.im/post/5aa90e5ef265da239f0713a1?utm_source=gold_browser_extension
-https://juejin.im/post/5aa90e5ef265da239f0713a1?utm_source=gold_browser_extension
-
-
 Vue.js 源码学习笔记
 http://jiongks.name/blog/vue-code-review
 http://jiongks.name/blog/vue-code-review
-
 
 
 不错的js基础教程复习
@@ -563,19 +527,30 @@ https://yangbo5207.github.io/wutongluo/
 https://yangbo5207.github.io/wutongluo/
 
 
-vue组件命名指南,不为取名而纠结
-https://juejin.im/post/5aaa79746fb9a028bb18babd?utm_source=gold_browser_extension
-https://juejin.im/post/5aaa79746fb9a028bb18babd?utm_source=gold_browser_extension
+看下桌面的 mui 视频教程
 
-
-
-整理下自己的百度网盘
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 某课网课程大全 最全的资源，最热门的技术
 http://shenzjd.com/archives/381
 http://shenzjd.com/archives/381
 
+
+欲奴第一季迅雷下载
+http://www.dymp4.com/oumei/yunudiyiji/
+http://www.dymp4.com/oumei/yunudiyiji/
+
+
+云盘资源搜索网站，能够帮你找到绝大部分资源
+http://shenzjd.com/archives/206
+http://shenzjd.com/archives/206
+
+
+网页版VR全景看美女，来自岛国产经新闻
+http://shenzjd.com/archives/232
+http://shenzjd.com/archives/232
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
