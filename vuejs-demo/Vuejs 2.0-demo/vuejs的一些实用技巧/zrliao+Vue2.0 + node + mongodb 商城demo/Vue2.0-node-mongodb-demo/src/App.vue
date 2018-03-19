@@ -8,6 +8,12 @@
   export default {
     name: 'App'
   }
+
+  import 'assets/css/base.css'
+  import 'assets/css/checkout.css'
+  import 'assets/css/login.css'
+  import 'assets/css/product.css'
+
 </script>
 
 <style lang ='scss'>
@@ -18,7 +24,7 @@
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
-    @include fontsize(24px)
-    @include color(red)
+    @include fontsize(24px);
+    /* @include color(red) */
   }
 </style>
