@@ -29,6 +29,7 @@ app.use('/index', indexRouter);
 app.use('/users', usersRouter);
 
 // catch 404 and forward to error handler
+// 捕获  404 的错误
 app.use(function(req, res, next) {
   next(createError(404));
 });
