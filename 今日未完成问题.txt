@@ -502,6 +502,11 @@ https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extensio
 https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
 
 
+vue-cli + es6 多页面项目开发及部署
+https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
+https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
+
+
 分享收集的一大波前端面试题和答案
 https://juejin.im/entry/5a9d0f05f265da239b40eb7c?utm_source=gold_browser_extension
 https://juejin.im/entry/5a9d0f05f265da239b40eb7c?utm_source=gold_browser_extension
@@ -552,34 +557,9 @@ https://juejin.im/post/5aaf9e5cf265da239c7b2b93?utm_source=gold_browser_extensio
 https://juejin.im/post/5aaf9e5cf265da239c7b2b93?utm_source=gold_browser_extension
 
 
-别人问你http协议，到底是想问什么？
-https://juejin.im/entry/5ab0ab32518825556918d0a1?utm_source=gold_browser_extension
-https://juejin.im/entry/5ab0ab32518825556918d0a1?utm_source=gold_browser_extension
-
-
-使用 Vue.js 和 Flask 来构建一个单页的App
-https://juejin.im/post/5ab0a21df265da23a228efd3?utm_source=gold_browser_extension
-https://juejin.im/post/5ab0a21df265da23a228efd3?utm_source=gold_browser_extension
-
-
 Node 调试工具入门教程
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
-
-
-饿了么快应用初体验
-https://juejin.im/post/5ab119ef51882555712c3372?utm_source=gold_browser_extension
-https://juejin.im/post/5ab119ef51882555712c3372?utm_source=gold_browser_extension
-
-
-Vuejs——（5）过渡,动画
-https://juejin.im/post/5aab7563f265da237c68a886?utm_source=gold_browser_extension
-https://juejin.im/post/5aab7563f265da237c68a886?utm_source=gold_browser_extension
-
-
-NODE基础总结(1)
-https://juejin.im/post/5aae19b36fb9a028de447c33?utm_source=gold_browser_extension
-https://juejin.im/post/5aae19b36fb9a028de447c33?utm_source=gold_browser_extension
 
 
 vue正式环境与测试环境压包配置方法
@@ -587,26 +567,25 @@ https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extensio
 https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
  
 
-潜入理解ES6-Promise用法小结
-https://juejin.im/post/5ab07e1e51882555731bf43b?utm_source=gold_browser_extension
-https://juejin.im/post/5ab07e1e51882555731bf43b?utm_source=gold_browser_extension
-
-
-潜入理解ES6-类和继承
-https://juejin.im/post/5ab0b69df265da2384406a61?utm_source=gold_browser_extension
-https://juejin.im/post/5ab0b69df265da2384406a61?utm_source=gold_browser_extension
-
 面试分享：2018阿里巴巴前端面试总结 | 掘金技术征文
 https://juejin.im/post/5ab0da85f265da23866fb9b7?utm_source=gold_browser_extension
 https://juejin.im/post/5ab0da85f265da23866fb9b7?utm_source=gold_browser_extension
 
-Node构建一个静态文件服务器
-https://juejin.im/post/5aaf83516fb9a028cc610760?utm_source=gold_browser_extension
-https://juejin.im/post/5aaf83516fb9a028cc610760?utm_source=gold_browser_extension
 
-Vant 1.0 正式发布：轻量、可靠的移动端 Vue 组件库
-https://juejin.im/post/5ab208576fb9a028e25d6efc?utm_source=gold_browser_extension
-https://juejin.im/post/5ab208576fb9a028e25d6efc?utm_source=gold_browser_extension
+快应用快速入门教程
+https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
+https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
+
+
+为vue项目添加骨架屏 - xiaOp的博客
+https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
+https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
+
+
+让骨架屏更快渲染 - xiaOp的博客
+https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
+https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
+
 
 看下桌面的 mui 视频教程
 
