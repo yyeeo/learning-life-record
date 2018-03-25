@@ -566,41 +566,39 @@ Node 调试工具入门教程
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
-
 vue正式环境与测试环境压包配置方法
 https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
 https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
  
-
-面试分享：2018阿里巴巴前端面试总结 | 掘金技术征文
-https://juejin.im/post/5ab0da85f265da23866fb9b7?utm_source=gold_browser_extension
-https://juejin.im/post/5ab0da85f265da23866fb9b7?utm_source=gold_browser_extension
-
-
 快应用快速入门教程
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
 
-
 为vue项目添加骨架屏 - xiaOp的博客
 https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
-
 
 让骨架屏更快渲染 - xiaOp的博客
 https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
 
 
-你不知道的Vuejs - 定制开发项目模板
-https://juejin.im/post/5ab357e66fb9a028b92d0c59?utm_source=gold_browser_extension
-https://juejin.im/post/5ab357e66fb9a028b92d0c59?utm_source=gold_browser_extension
-
-
 2018三月份前端面试总结 | 掘金技术征文
 https://juejin.im/post/5ab36fe9f265da237d02ebdc?utm_source=gold_browser_extension
 https://juejin.im/post/5ab36fe9f265da237d02ebdc?utm_source=gold_browser_extension
 
+
+大厂前端面试考什么? | 掘金技术征文
+https://juejin.im/post/5ab70735f265da237a4cf9b1?utm_source=gold_browser_extension
+https://juejin.im/post/5ab70735f265da237a4cf9b1?utm_source=gold_browser_extension
+
+
+JavaScript基础: 类与继承
+https://juejin.im/post/5ab70ca7f265da23a141dc6a?utm_source=gold_browser_extension
+https://juejin.im/post/5ab70ca7f265da23a141dc6a?utm_source=gold_browser_extension
+
+
+看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
 看下桌面的 mui 视频教程
 
