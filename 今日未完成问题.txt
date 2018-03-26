@@ -473,7 +473,21 @@ Vue-cli + express 构建的SPA Blog（采用前后端分离方案）
 https://juejin.im/post/5a744a3e5188257a64266ec6?utm_source=gold_browser_extension
 https://juejin.im/post/5a744a3e5188257a64266ec6?utm_source=gold_browser_extension
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+vue正式环境与测试环境压包配置方法
+https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
+https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
+
+
+Cordova使用（vue）
+https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
+https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
+
+vue-cli + es6 多页面项目开发及部署
+https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
+https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 基于vue开发微信活动页-总结篇
@@ -500,17 +514,6 @@ http://ask.dcloud.net.cn/article/197
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-Cordova使用（vue）
-https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
-https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
-
-
-vue-cli + es6 多页面项目开发及部署
-https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
-https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
-
 
 分享收集的一大波前端面试题和答案
 https://juejin.im/entry/5a9d0f05f265da239b40eb7c?utm_source=gold_browser_extension
@@ -566,37 +569,28 @@ Node 调试工具入门教程
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
-vue正式环境与测试环境压包配置方法
-https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
-https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extension
- 
+
 快应用快速入门教程
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
 
+
 为vue项目添加骨架屏 - xiaOp的博客
 https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
+
 
 让骨架屏更快渲染 - xiaOp的博客
 https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
 
 
-2018三月份前端面试总结 | 掘金技术征文
-https://juejin.im/post/5ab36fe9f265da237d02ebdc?utm_source=gold_browser_extension
-https://juejin.im/post/5ab36fe9f265da237d02ebdc?utm_source=gold_browser_extension
+ES6 在日常工作中的运用
+https://juejin.im/post/5ab658326fb9a028dc40f8a5?utm_source=gold_browser_extension
+https://juejin.im/post/5ab658326fb9a028dc40f8a5?utm_source=gold_browser_extension
 
 
-大厂前端面试考什么? | 掘金技术征文
-https://juejin.im/post/5ab70735f265da237a4cf9b1?utm_source=gold_browser_extension
-https://juejin.im/post/5ab70735f265da237a4cf9b1?utm_source=gold_browser_extension
-
-
-JavaScript基础: 类与继承
-https://juejin.im/post/5ab70ca7f265da23a141dc6a?utm_source=gold_browser_extension
-https://juejin.im/post/5ab70ca7f265da23a141dc6a?utm_source=gold_browser_extension
-
+怎么选股 
 
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
