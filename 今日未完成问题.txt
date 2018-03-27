@@ -487,6 +487,17 @@ vue-cli + es6 多页面项目开发及部署
 https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
 https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
 
+
+为vue项目添加骨架屏 - xiaOp的博客
+https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
+https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
+
+
+让骨架屏更快渲染 - xiaOp的博客
+https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
+https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -497,6 +508,13 @@ https://juejin.im/post/5a6f3bc1f265da3e3245c1bc?utm_source=gold_browser_extensio
 基于vue开发的在线付费课程应用
 https://juejin.im/post/5a6832ba5188256922633a7c?utm_source=gold_browser_extension#heading-3
 https://juejin.im/post/5a6832ba5188256922633a7c?utm_source=gold_browser_extension#heading-3
+
+
+
+快应用快速入门教程
+https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
+https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -560,37 +578,10 @@ https://juejin.im/entry/5aae732e6fb9a028d82b8d0f?utm_source=gold_browser_extensi
 https://juejin.im/entry/5aae732e6fb9a028d82b8d0f?utm_source=gold_browser_extension
  
 
-移动spa商城优化记（一）---首屏优化篇
-https://juejin.im/post/5aaf9e5cf265da239c7b2b93?utm_source=gold_browser_extension
-https://juejin.im/post/5aaf9e5cf265da239c7b2b93?utm_source=gold_browser_extension
-
-
 Node 调试工具入门教程
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
-
-快应用快速入门教程
-https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
-https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
-
-
-为vue项目添加骨架屏 - xiaOp的博客
-https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
-https://juejin.im/entry/5ab37beb518825557005eecc?utm_source=gold_browser_extension
-
-
-让骨架屏更快渲染 - xiaOp的博客
-https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
-https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
-
-
-ES6 在日常工作中的运用
-https://juejin.im/post/5ab658326fb9a028dc40f8a5?utm_source=gold_browser_extension
-https://juejin.im/post/5ab658326fb9a028dc40f8a5?utm_source=gold_browser_extension
-
-
-怎么选股 
 
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
