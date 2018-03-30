@@ -498,6 +498,15 @@ https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extensi
 https://juejin.im/entry/5ab37c126fb9a028c06abc18?utm_source=gold_browser_extension
 
 
+Webpack + Vue，部署时减少包体积的几种方法
+https://juejin.im/post/5abba68cf265da239c7b6bdc?utm_source=gold_browser_extension
+https://juejin.im/post/5abba68cf265da239c7b6bdc?utm_source=gold_browser_extension
+
+
+vuejs单页应用的权限管理实践
+https://juejin.im/post/5abaec21f265da239d4958aa?utm_source=gold_browser_extension
+https://juejin.im/post/5abaec21f265da239d4958aa?utm_source=gold_browser_extension
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -583,20 +592,22 @@ https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extensi
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
 
-3月前端知识集锦
-https://juejin.im/post/5abb22925188255c4c1050e0?utm_source=gold_browser_extension
-https://juejin.im/post/5abb22925188255c4c1050e0?utm_source=gold_browser_extension
+你需要知道的 nginx 基础配置
+https://juejin.im/entry/5abaf4986fb9a028c42e3c46?utm_source=gold_browser_extension
+https://juejin.im/entry/5abaf4986fb9a028c42e3c46?utm_source=gold_browser_extension
 
 
-十全大补vue-router
-https://juejin.im/post/5ab9a21ff265da238925bbf5?utm_source=gold_browser_extension
-https://juejin.im/post/5ab9a21ff265da238925bbf5?utm_source=gold_browser_extension
+漫谈Vue组件库开发
+https://juejin.im/entry/5abe0621518825555e5df56d?utm_source=gold_browser_extension
+https://juejin.im/entry/5abe0621518825555e5df56d?utm_source=gold_browser_extension
 
 
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
+
 看下桌面的 mui 视频教程
 
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
