@@ -572,11 +572,6 @@ https://juejin.im/post/5aacdd24f265da23830aa856?utm_source=gold_browser_extensio
 https://juejin.im/post/5aacdd24f265da23830aa856?utm_source=gold_browser_extension
 
 
-手写Node静态资源服务器
-https://juejin.im/post/5aad37365188255588052cfa?utm_source=gold_browser_extension
-https://juejin.im/post/5aad37365188255588052cfa?utm_source=gold_browser_extension
-
-
 前端面试考点多？看这几篇文章就够了
 https://juejin.im/post/5aae076d6fb9a028cc6100a9?utm_source=gold_browser_extension
 https://juejin.im/post/5aae076d6fb9a028cc6100a9?utm_source=gold_browser_extension
@@ -592,30 +587,21 @@ https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extensi
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
 
-你需要知道的 nginx 基础配置
-https://juejin.im/entry/5abaf4986fb9a028c42e3c46?utm_source=gold_browser_extension
-https://juejin.im/entry/5abaf4986fb9a028c42e3c46?utm_source=gold_browser_extension
-
-
-漫谈Vue组件库开发
-https://juejin.im/entry/5abe0621518825555e5df56d?utm_source=gold_browser_extension
-https://juejin.im/entry/5abe0621518825555e5df56d?utm_source=gold_browser_extension
-
-
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
-
 
 看下桌面的 mui 视频教程
 
- 
+
+飞机BT 磁力搜索 BT种子搜索神奇 免费下载BT种子，超4000万条BT种子数据
+http://feijibt.net/
+http://feijibt.net/
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 某课网课程大全 最全的资源，最热门的技术
 http://shenzjd.com/archives/381
 http://shenzjd.com/archives/381
-
 
 欲奴第一季迅雷下载
 http://www.dymp4.com/oumei/yunudiyiji/
@@ -629,21 +615,10 @@ http://shenzjd.com/archives/206
 http://shenzjd.com/archives/232
 http://shenzjd.com/archives/232
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 看下桌面的vue+node视频
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-于 2017年 11月 18号 去办理社保卡，两个月后 （2018年 1月 18号 ）记得 要 去 景田 建设银行支行 取社保卡
-
-https://fundebug.com/
-https://fundebug.com/
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -677,9 +652,11 @@ https://github.com/aOrz/vue-template-for-hbuilder
 https://github.com/aOrz/vue-template-for-hbuilder
 https://github.com/aOrz/vue-template-for-hbuilder
 
+
 在 Hbuilder 中使用webpack？
 https://fddcn.cn/webpack-dev-middleware-hard-disk.html
 https://fddcn.cn/webpack-dev-middleware-hard-disk.html
+
 
 hbuilder 的方式  开发 vue
 https://juejin.im/post/5a5349b9f265da3e290c0d12?utm_source=gold_browser_extension
