@@ -587,21 +587,6 @@ https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extensi
 https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
 
 
-vue-cli 3.0 入门介绍
-https://juejin.im/entry/5ac1c540f265da237c690faf?utm_source=gold_browser_extension
-https://juejin.im/entry/5ac1c540f265da237c690faf?utm_source=gold_browser_extension
-
-
-vue 单页应用（spa）前端路由实现原理
-https://juejin.im/post/5abf2f44f265da238925da22?utm_source=gold_browser_extension
-https://juejin.im/post/5abf2f44f265da238925da22?utm_source=gold_browser_extension
-
-
-ES6会这些就够了
-https://juejin.im/post/5abf531d6fb9a028dc412419?utm_source=gold_browser_extension
-https://juejin.im/post/5abf531d6fb9a028dc412419?utm_source=gold_browser_extension
-
-
 Node.js核心入门（一）
 https://juejin.im/post/5ac0e1fc6fb9a028b411345f
 https://juejin.im/post/5ac0e1fc6fb9a028b411345f
@@ -612,29 +597,12 @@ https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extensio
 https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extension
 
 
-跨域与同源策略探究
-https://juejin.im/entry/5ac1d8b16fb9a028c8130338?utm_source=gold_browser_extension
-https://juejin.im/entry/5ac1d8b16fb9a028c8130338?utm_source=gold_browser_extension
-
-
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
-
 
 看下桌面的 mui 视频教程
 
-
-飞机BT 磁力搜索 BT种子搜索神奇 免费下载BT种子，超4000万条BT种子数据
-http://feijibt.net/
-http://feijibt.net/
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-某课网课程大全 最全的资源，最热门的技术
-http://shenzjd.com/archives/381
-http://shenzjd.com/archives/381
 
 欲奴第一季迅雷下载
 http://www.dymp4.com/oumei/yunudiyiji/
@@ -647,7 +615,6 @@ http://shenzjd.com/archives/206
 网页版VR全景看美女，来自岛国产经新闻
 http://shenzjd.com/archives/232
 http://shenzjd.com/archives/232
-
 
 看下桌面的vue+node视频
 
