@@ -596,6 +596,21 @@ https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extensio
 https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extension
 
 
+面试题：你能写一个Vue的双向数据绑定吗？
+https://juejin.im/post/5acc17cb51882555745a03f8?utm_source=gold_browser_extension
+https://juejin.im/post/5acc17cb51882555745a03f8?utm_source=gold_browser_extension
+
+
+ES6解决了什么问题
+https://juejin.im/post/5acc16fa5188255c4c10963d?utm_source=gold_browser_extension
+https://juejin.im/post/5acc16fa5188255c4c10963d?utm_source=gold_browser_extension
+
+
+面试官: 你了解前端路由吗?
+https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension
+https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension
+
+
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
 看下桌面的 mui 视频教程
