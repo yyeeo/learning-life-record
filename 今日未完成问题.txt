@@ -596,19 +596,20 @@ https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extensio
 https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extension
 
 
-面试题：你能写一个Vue的双向数据绑定吗？
-https://juejin.im/post/5acc17cb51882555745a03f8?utm_source=gold_browser_extension
-https://juejin.im/post/5acc17cb51882555745a03f8?utm_source=gold_browser_extension
+复杂世界里, 一个就够了. One is all. 用到VUE + MUI做混合开发写一款调用one接口的阅读App!
+https://github.com/lishuaixingNewBee/ONE
+https://github.com/lishuaixingNewBee/ONE
 
 
-ES6解决了什么问题
-https://juejin.im/post/5acc16fa5188255c4c10963d?utm_source=gold_browser_extension
-https://juejin.im/post/5acc16fa5188255c4c10963d?utm_source=gold_browser_extension
+基金 操作 看 上证 要不要 减仓
 
+医药基金 减仓
 
-面试官: 你了解前端路由吗?
-https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension
-https://juejin.im/post/5ac61da66fb9a028c71eae1b?utm_source=gold_browser_extension
+钢铁 中长线
+
+加仓 钢铁 基金  002196  钢铁基
+
+st郑煤  股票  3到5层仓
 
 
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
