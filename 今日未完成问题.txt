@@ -453,6 +453,7 @@ http://www.imooc.com/learn/802
 https://juejin.im/post/5a478351f265da43231b4f27?utm_source=gold_browser_extension
 https://juejin.im/post/5a478351f265da43231b4f27?utm_source=gold_browser_extension
 
+
 ios 提示更新后，侧栏导航变空白
 
 
@@ -482,6 +483,7 @@ https://juejin.im/post/5ab0823b6fb9a028bc2d9173?utm_source=gold_browser_extensio
 Cordova使用（vue）
 https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
 https://juejin.im/post/5aa78ff4518825558a064a15?utm_source=gold_browser_extension
+
 
 vue-cli + es6 多页面项目开发及部署
 https://juejin.im/post/5ab1d9c0f265da239c7b3c0b?utm_source=gold_browser_extension
@@ -523,8 +525,7 @@ https://juejin.im/post/5a6f3bc1f265da3e3245c1bc?utm_source=gold_browser_extensio
 https://juejin.im/post/5a6832ba5188256922633a7c?utm_source=gold_browser_extension#heading-3
 https://juejin.im/post/5a6832ba5188256922633a7c?utm_source=gold_browser_extension#heading-3
 
-
-
+ 
 快应用快速入门教程
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
 https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension
@@ -582,10 +583,6 @@ https://juejin.im/entry/5aae732e6fb9a028d82b8d0f?utm_source=gold_browser_extensi
 https://juejin.im/entry/5aae732e6fb9a028d82b8d0f?utm_source=gold_browser_extension
  
 
-Node 调试工具入门教程
-https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
-https://juejin.im/entry/5ab0680ff265da239f073142?utm_source=gold_browser_extension
-
 Node.js核心入门（一）
 https://juejin.im/post/5ac0e1fc6fb9a028b411345f
 https://juejin.im/post/5ac0e1fc6fb9a028b411345f
@@ -601,11 +598,6 @@ https://github.com/lishuaixingNewBee/ONE
 https://github.com/lishuaixingNewBee/ONE
 
 
-前端开发碎碎念
-https://juejin.im/post/5ad0137b6fb9a028c14addb0?utm_source=gold_browser_extension
-https://juejin.im/post/5ad0137b6fb9a028c14addb0?utm_source=gold_browser_extension
-
-
 基金 操作 看 上证 要不要 减仓
 
 医药基金 减仓
@@ -617,10 +609,22 @@ https://juejin.im/post/5ad0137b6fb9a028c14addb0?utm_source=gold_browser_extensio
 st郑煤  股票  3到5层仓
 
 
-
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
 看下桌面的 mui 视频教程
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+技术胖带你玩转ES6视频教程
+http://jspang.com/
+http://jspang.com/2017/06/03/es6/
+http://jspang.com/2017/06/03/es6/
+
+
+技术胖的视频教程
+http://jspang.com/
+http://jspang.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -629,13 +633,11 @@ st郑煤  股票  3到5层仓
 http://www.dymp4.com/oumei/yunudiyiji/
 http://www.dymp4.com/oumei/yunudiyiji/
 
+
 云盘资源搜索网站，能够帮你找到绝大部分资源
 http://shenzjd.com/archives/206
 http://shenzjd.com/archives/206
 
-网页版VR全景看美女，来自岛国产经新闻
-http://shenzjd.com/archives/232
-http://shenzjd.com/archives/232
 
 看下桌面的vue+node视频
 
@@ -673,17 +675,23 @@ https://github.com/aOrz/vue-template-for-hbuilder
 https://github.com/aOrz/vue-template-for-hbuilder
 https://github.com/aOrz/vue-template-for-hbuilder
 
-
 在 Hbuilder 中使用webpack？
 https://fddcn.cn/webpack-dev-middleware-hard-disk.html
 https://fddcn.cn/webpack-dev-middleware-hard-disk.html
-
 
 hbuilder 的方式  开发 vue
 https://juejin.im/post/5a5349b9f265da3e290c0d12?utm_source=gold_browser_extension
 https://github.com/czero1995/fancy-store
 https://github.com/czero1995/fancy-store
 https://github.com/czero1995/fancy-store
+
+vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
+https://github.com/bluefox1688/vue-cli-multi-page
+https://github.com/bluefox1688/vue-cli-multi-page
+
+vue + mui
+https://github.com/yujinjin/fans
+https://github.com/yujinjin/fans
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -698,11 +706,9 @@ vue-multiple-pages
 https://github.com/Plortinus/vue-multiple-pages
 https://github.com/Plortinus/vue-multiple-pages
 
-
 VueJS多页项目应用
 http://coderlt.coding.me/qkfe/2016/11/03/vue-multi-page/
 http://coderlt.coding.me/qkfe/2016/11/03/vue-multi-page/
-
 
 基于webpack2.x的vue2.x的多页面站点
 https://juejin.im/entry/5a0425adf265da432e5b75c1?utm_source=gold_browser_extension
@@ -712,24 +718,7 @@ https://juejin.im/entry/5a0425adf265da432e5b75c1?utm_source=gold_browser_extensi
 https://juejin.im/entry/5a04f819f265da43310d4687?utm_source=gold_browser_extension
 https://juejin.im/entry/5a04f819f265da43310d4687?utm_source=gold_browser_extension
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-看下了解下 招商银行的  闪电贷款
-                                                                                                     
-信用卡 23号要还款
-
-支付宝的花呗 要 12月9号还款
-
-所以，如果家里开了wifi的话，是不是买个机顶盒 装个直播软件就能收电视信号了吧，没开网络的话，那就只能开有线电视才能收到电视信号是么？？
-	
-所以，如果家里开了wifi的话，是不是买个机顶盒 装个直播软件就能收电视信号了吧，没开网络的话，那就只能开有线电视才能收到电视信号是么？？
-
-所以，如果家里开了wifi的话，是不是买个机顶盒 装个直播软件就能收电视信号了吧，没开网络的话，那就只能开有线电视才能收到电视信号是么？？
-
-盒子可以看网络视频，看本地视频，玩转多 屏互动。将手机或平板电脑上的视频、音乐、图片投射到电视上播放，以及通过手机或平板电脑控制盒子，新鲜又好玩。玩游戏，使用第三方应用。
-
-支付宝的钱记得去还 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 问下社保的事情
@@ -739,88 +728,8 @@ https://juejin.im/entry/5a04f819f265da43310d4687?utm_source=gold_browser_extensi
 先办好社保卡先，转出凭证，以及转入凭证加盖公司公章，身份证等 去办理 社保迁移的事情
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-买基金是追涨不追跌
-
-最多就10只基金，末位淘汰的办法
-
-选个五六只绩优基金，然后采用末位淘汰法，每个半年看一下成绩，把最差的卖了，重新选择新的绩优基金
-
-选个五六只绩优基金，然后采用末位淘汰法，每个半年看一下成绩，把最差的卖了，重新选择新的绩优基金
-
-
-关于基金定投：
-
-定投基金达到30%盈利时，连本带利全部赎回，并开始新的一轮定投。
-
-
-我听一个股友说择时定投好，比如你先投100，等跌0.5-1%时加150，
-
-
-如果哪天跌3个点时就多加点，这样逢跌加仓，您说可行吗？
-
-
-我十多号投了100，周五跌1个点加了150，以后只要是跌我就加，这样获利会比每月固定时间定投好一点吗？
-
-还有我起投100，会不会少点？我算了算易方达去年一年的涨跌，跌1个点加150，跌2个点加250，跌3个点加300，以这种方法大概一年投入6500左右。
-
-您说我按他的的方法可行吗？还是一次1000（我能承受的限度），每个月固定时间投入？
-
-逢跌加仓会比每月固定时间定投好一点，按他的的方法可行。
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-测试的文档以及视频
-
-客户app的首页 评论
-
-技术胖带你玩转ES6视频教程
-http://jspang.com/
-http://jspang.com/2017/06/03/es6/
-http://jspang.com/2017/06/03/es6/
-
-技术胖的视频教程
-http://jspang.com/
-http://jspang.com/
-
-vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
-https://github.com/bluefox1688/vue-cli-multi-page
-https://github.com/bluefox1688/vue-cli-multi-page
-
-vue + mui
-https://github.com/yujinjin/fans
-https://github.com/yujinjin/fans
-
-前端开发有两件事儿是特别需要重视的，一个就是可维护性，一个就是复用性。
-前端开发有两件事儿是特别需要重视的，一个就是可维护性，一个就是复用性。
-
------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------
-
-客户app的支付功能
-
-base64.js 是干么的，是怎么用的
-
-登录接口的密码 加密
-
-修改为动态菜单的，从后台读菜单的一些写法。
-    
-mui 的分享功能
-
-
------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------
-
-支付功能，支持支付宝和微信支付 
-推送功能，支持个推推送平台
-https://github.com/dcloudio/H5P.Server
-https://github.com/dcloudio/H5P.Server
- 
-个推 推送
-
------------------------------------------------------------------------------------------------------------------------------
 
 深圳申请廉租房  人才引进， 入深圳户口
 
