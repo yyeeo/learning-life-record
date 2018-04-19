@@ -597,10 +597,29 @@ https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extensio
 https://github.com/lishuaixingNewBee/ONE
 https://github.com/lishuaixingNewBee/ONE
 
+Vue.js最佳实践
+https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
+https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
+
 
 使用chrome remote debug时打开inspect时出现一片空白
 https://segmentfault.com/a/1190000007785694
 https://segmentfault.com/a/1190000007785694
+
+
+vue中需要注意的问题总结(上)
+https://juejin.im/post/5ad56d86518825556534ff4b?utm_source=gold_browser_extension
+https://juejin.im/post/5ad56d86518825556534ff4b?utm_source=gold_browser_extension
+
+
+原生JS 操作 DOM
+https://juejin.im/post/5ad4474e6fb9a028ba1ff230?utm_source=gold_browser_extension
+https://juejin.im/post/5ad4474e6fb9a028ba1ff230?utm_source=gold_browser_extension
+
+
+ios的兼容性 时间戳 问题
+
+下个safiri 浏览器
 
 
 基金 操作 看 上证 要不要 减仓
@@ -612,7 +631,6 @@ https://segmentfault.com/a/1190000007785694
 加仓 钢铁 基金  002196  钢铁基
 
 st郑煤  股票  3到5层仓
-
 
 看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
