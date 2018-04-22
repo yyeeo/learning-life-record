@@ -601,17 +601,6 @@ Vue.js最佳实践
 https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
 https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
 
-
-使用chrome remote debug时打开inspect时出现一片空白
-https://segmentfault.com/a/1190000007785694
-https://segmentfault.com/a/1190000007785694
-
-
-vue中需要注意的问题总结(上)
-https://juejin.im/post/5ad56d86518825556534ff4b?utm_source=gold_browser_extension
-https://juejin.im/post/5ad56d86518825556534ff4b?utm_source=gold_browser_extension
-
-
 vue-cli 3.0 特性速读
 https://juejin.im/post/5ad862c95188252eb3237752?utm_source=gold_browser_extension
 https://juejin.im/post/5ad862c95188252eb3237752?utm_source=gold_browser_extension
@@ -625,6 +614,16 @@ https://juejin.im/post/5ad4474e6fb9a028ba1ff230?utm_source=gold_browser_extensio
 vue多页面开发和打包的正确姿势
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
+
+
+记一次基于mpvue的小程序开发及上线实战
+https://juejin.im/entry/5ad9c095f265da0b826258e7?utm_source=gold_browser_extension
+https://juejin.im/entry/5ad9c095f265da0b826258e7?utm_source=gold_browser_extension
+
+
+Vue前端开发规范
+https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extension
+https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extension
 
 
 ios的兼容性 时间戳 问题
