@@ -606,11 +606,6 @@ https://juejin.im/post/5ad862c95188252eb3237752?utm_source=gold_browser_extensio
 https://juejin.im/post/5ad862c95188252eb3237752?utm_source=gold_browser_extension
 
 
-原生JS 操作 DOM
-https://juejin.im/post/5ad4474e6fb9a028ba1ff230?utm_source=gold_browser_extension
-https://juejin.im/post/5ad4474e6fb9a028ba1ff230?utm_source=gold_browser_extension
-
-
 vue多页面开发和打包的正确姿势
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
@@ -626,31 +621,19 @@ https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extensio
 https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extension
 
 
+Vue还有这种骚操作？浅析几个新手常常忽略的API
+https://juejin.im/post/5adc99f56fb9a07abd0d3ee7?utm_source=gold_browser_extension
+https://juejin.im/post/5adc99f56fb9a07abd0d3ee7?utm_source=gold_browser_extension
+
+
+ES6 实用开发技巧
+https://juejin.im/post/5addf34e518825672f197d87?utm_source=gold_browser_extension
+https://juejin.im/post/5addf34e518825672f197d87?utm_source=gold_browser_extension
+
+
 ios的兼容性 时间戳 问题
 
 下个safiri 浏览器
-
-
-看下华美乐登录 超时以及 网络异常的处理
-
-function checkOnline(){
-
-		 	if (navigator.onLine) {
-			    console.log("正常工作！");
-			    vm.checkOnlineflag = true
-
-			     return true
-			} else {
-			    //执行离线状态时的任务
-			    console.log("离线工作！");
-
-			    vm.checkOnlineflag = false
-
-			    return false
-			}
-
-		 }
-
 
 
 基金 操作 看 上证 要不要 减仓
