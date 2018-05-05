@@ -655,16 +655,23 @@ ios的兼容性 时间戳 问题
 https://www.cnblogs.com/DonaldTrump/p/6733912.html
 https://www.cnblogs.com/DonaldTrump/p/6733912.html
 
+
 对ios 布局的影响 会有兼容性  问题
 
+
 html,body,.g-content{
-	overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 
 Vue 使用中的小技巧
 https://juejin.im/post/5ae02f39518825672f198ac2
 https://juejin.im/post/5ae02f39518825672f198ac2
+
+
+致敬 React: 为 Vue 引入容器组件和展示组件
+https://juejin.im/post/5ae9a5545188256709610635?utm_source=gold_browser_extension
+https://juejin.im/post/5ae9a5545188256709610635?utm_source=gold_browser_extension
 
 
 当面试官问你Vue响应式原理，你可以这么回答他
@@ -687,6 +694,42 @@ https://juejin.im/post/5ae95f17f265da0b93481dec?utm_source=gold_browser_extensio
 https://juejin.im/post/5ae95f17f265da0b93481dec?utm_source=gold_browser_extension
 
 
+Vue项目全局配置微信分享实践
+https://juejin.im/post/5ae5e6c8518825673027eb56?utm_source=gold_browser_extension
+https://juejin.im/post/5ae5e6c8518825673027eb56?utm_source=gold_browser_extension
+
+
+Vue国际化处理 vue-i18n 以及项目自动切换中英文
+https://juejin.im/post/5ae6ada2518825673614b26e?utm_source=gold_browser_extension
+https://juejin.im/post/5ae6ada2518825673614b26e?utm_source=gold_browser_extension
+
+
+
+vue项目可以从哪些方面进行优化
+https://juejin.im/post/5ae2cb0ef265da0b767d32a0?utm_source=gold_browser_extension
+https://juejin.im/post/5ae2cb0ef265da0b767d32a0?utm_source=gold_browser_extension
+
+
+Vue.js中 watch 的高级用法
+https://juejin.im/post/5ae91fa76fb9a07aa7677543?utm_source=gold_browser_extension
+https://juejin.im/post/5ae91fa76fb9a07aa7677543?utm_source=gold_browser_extension
+
+
+你需要知道的单页面路由实现原理
+https://juejin.im/post/5ae95896f265da0b84553bd7?utm_source=gold_browser_extension
+https://juejin.im/post/5ae95896f265da0b84553bd7?utm_source=gold_browser_extension
+
+
+前端工程师系列，TCP复习及浓缩总结（全干货，支持面试）
+https://juejin.im/post/5ae2711bf265da0b873a3657?utm_source=gold_browser_extension
+https://juejin.im/post/5ae2711bf265da0b873a3657?utm_source=gold_browser_extension
+
+
+手把手教你写vue裁切预览组件
+https://juejin.im/post/5aead3aef265da0b91274741?utm_source=gold_browser_extension
+https://juejin.im/post/5aead3aef265da0b91274741?utm_source=gold_browser_extension
+
+
 ios证书的整理
 
 
@@ -694,57 +737,15 @@ ios证书的整理
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-基金 操作 看 上证 要不要 减仓
-
-
-医药基金 减仓
-
-钢铁 中长线
-
-加仓 钢铁 基金  002196  钢铁基
-
-st郑煤  股票  3到5层仓
-
------------------------------------------------------------------
-
-110003 上证50  如果 节后 回来  涨的话 减仓
- 
-如果跌的话，继续小加仓
-
------------------------------------------------------------------
-
-各支票的支撑点
-
-宏川  黄金分割支撑  差不多到底了
-
-天邑 44.3
-
-皇马 21.5
-
-盘龙 58
-
-三峡 7.95
-
-光明地产 6.78
-
-宏达 32.3
-
-有效跌破，是破位10分钟以上，或者破位后10分钟以内继续下跌0.5个点以上
-
-不破，回踩就能t
-
------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 医药股：
 
+
 新天药业，天宇股份，中欣氟材，金石东方，
 
+
 前边按序关注，另加老妖盘龙，九典
-
------------------------------------------------------------------
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
