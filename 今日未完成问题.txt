@@ -610,12 +610,6 @@ vue多页面开发和打包的正确姿势
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
 https://juejin.im/post/5a8e3f00f265da4e747fc700?utm_source=gold_browser_extension
 
-
-记一次基于mpvue的小程序开发及上线实战
-https://juejin.im/entry/5ad9c095f265da0b826258e7?utm_source=gold_browser_extension
-https://juejin.im/entry/5ad9c095f265da0b826258e7?utm_source=gold_browser_extension
-
-
 Vue前端开发规范
 https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extension
 https://juejin.im/post/5ada9b586fb9a07aaf34c746?utm_source=gold_browser_extension
@@ -642,26 +636,6 @@ https://juejin.im/post/5adff30f518825672d33d596?utm_source=gold_browser_extensio
 
 
 ios的兼容性 时间戳 问题
-
-下个safiri 浏览器
-
-
-看下 中国 移动 是选什么  套餐的好，18块以及 38块 
-
-看下桌面的 mui 视频教程
-
-
-移动端谨慎使用overflow:hidden
-https://www.cnblogs.com/DonaldTrump/p/6733912.html
-https://www.cnblogs.com/DonaldTrump/p/6733912.html
-
-
-对ios 布局的影响 会有兼容性  问题
-
-
-html,body,.g-content{
-  overflow-x: hidden;
-}
 
 
 Vue 使用中的小技巧
@@ -730,10 +704,41 @@ https://juejin.im/post/5aead3aef265da0b91274741?utm_source=gold_browser_extensio
 https://juejin.im/post/5aead3aef265da0b91274741?utm_source=gold_browser_extension
 
 
+
+Web前端面试题中的那些套路
+https://juejin.im/entry/5aeab44751882567147d36a0?utm_source=gold_browser_extension
+https://juejin.im/entry/5aeab44751882567147d36a0?utm_source=gold_browser_extension
+
+
+Vue + better-scroll 实现移动端字母索引导航
+https://juejin.im/post/5aeaea926fb9a07aac244d41?utm_source=gold_browser_extension
+https://juejin.im/post/5aeaea926fb9a07aac244d41?utm_source=gold_browser_extension
+
+
+Vue 常见业务场景以及细节心得
+https://juejin.im/post/5ae91aae5188256737063046?utm_source=gold_browser_extension
+https://juejin.im/post/5ae91aae5188256737063046?utm_source=gold_browser_extension
+
+
+如何判断用户浏览器以及一些前端常用的正则表单验证
+https://juejin.im/post/5aed6da16fb9a07aac2457f6?utm_source=gold_browser_extension
+https://juejin.im/post/5aed6da16fb9a07aac2457f6?utm_source=gold_browser_extension
+
+
+面试官: 实现双向绑定Proxy比defineproperty优劣如何?
+https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf?utm_source=gold_browser_extension
+https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf?utm_source=gold_browser_extension
+
+
 ios证书的整理
 
 
 看下深圳户口
+
+
+看下 中国 移动 是选什么  套餐的好，18块以及 38块 
+
+看下桌面的 mui 视频教程
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
