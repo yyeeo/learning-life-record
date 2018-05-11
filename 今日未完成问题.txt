@@ -597,6 +597,11 @@ https://juejin.im/post/5ac22344f265da238155ccde?utm_source=gold_browser_extensio
 https://github.com/lishuaixingNewBee/ONE
 https://github.com/lishuaixingNewBee/ONE
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Vue.js最佳实践
 https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
 https://juejin.im/entry/5ad3496051882532ce65a492?utm_source=gold_browser_extension
@@ -759,7 +764,55 @@ https://juejin.im/entry/5aed48c55188251b80158a5b?utm_source=gold_browser_extensi
 https://juejin.im/entry/5aed48c55188251b80158a5b?utm_source=gold_browser_extension
 
 
+VUE组件汇总
+https://juejin.im/post/5af16a2cf265da0b8636353b?utm_source=gold_browser_extension
+https://juejin.im/post/5af16a2cf265da0b8636353b?utm_source=gold_browser_extension
+
+
+如何解决外边距叠加的问题？
+https://juejin.im/entry/5af1bb56f265da0ba60fc39c?utm_source=gold_browser_extension
+https://juejin.im/entry/5af1bb56f265da0ba60fc39c?utm_source=gold_browser_extension
+
+
+前后端常见的几种鉴权方式
+https://juejin.im/entry/5aeffcf66fb9a07acd4da653?utm_source=gold_browser_extension
+https://juejin.im/entry/5aeffcf66fb9a07acd4da653?utm_source=gold_browser_extension
+
+
+当vue遇到pwa--vue+pwa移动端适配解决方案模板案例
+https://juejin.im/post/5af264296fb9a07aa54248f9?utm_source=gold_browser_extension
+https://juejin.im/post/5af264296fb9a07aa54248f9?utm_source=gold_browser_extension
+
+
+详解配置VS Code/Webstorm来调试JavaScript
+https://juejin.im/post/5af3aef36fb9a07aa83ebe66?utm_source=gold_browser_extension
+https://juejin.im/post/5af3aef36fb9a07aa83ebe66?utm_source=gold_browser_extension
+
+
+Vue组件通信深入Vuex
+https://juejin.im/entry/5af3ab7b6fb9a07a9a10dd53?utm_source=gold_browser_extension
+https://juejin.im/entry/5af3ab7b6fb9a07a9a10dd53?utm_source=gold_browser_extension
+
+
+如何避免 await/async 地狱
+https://juejin.im/entry/5af407c151882567336ac1f1?utm_source=gold_browser_extension
+https://juejin.im/entry/5af407c151882567336ac1f1?utm_source=gold_browser_extension
+
+
+走在JS上的全栈之路(一)
+https://juejin.im/post/5af40f86f265da0ba26703a0?utm_source=gold_browser_extension
+https://juejin.im/post/5af40f86f265da0ba26703a0?utm_source=gold_browser_extension
+
+
+JavaScript操作DOM常用的API
+https://juejin.im/post/5af43bd5f265da0b8336c6f7?utm_source=gold_browser_extension
+https://juejin.im/post/5af43bd5f265da0b8336c6f7?utm_source=gold_browser_extension
+
+
 ios证书的整理
+
+
+微信里面的看下 微信 文章 教程
 
 
 看下深圳户口
@@ -773,8 +826,48 @@ ios证书的整理
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-医药股：
+双向绑定原理，vue是怎么做到监听到数组的变化的，this.$nextTick实现原理，什么时候用计算属性，
 
+什么时候用watch。fitter过滤器实现原理。组件间通信，虚拟DOM，diff算法，
+
+vue1.x版本是没有虚拟DOM的，为啥2.x要加入虚拟DOM，是基于什么样的理由。vue-router怎么实现
+
+。vuex原理，和redux相同点和不同点，以及应用场景。以上是我想到关于vue面试会问到的。
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1, 前端开发中，怎么根据设计图做适配，适应各种手机大小，跟UI怎么沟通方案？
+
+2 开发项目中，怎样搭建环境，用什么打包工具？
+
+3 假如用webpack搭建VUE项目，打包以后，怎么将CSS从JS文件中抽离出来？
+
+4 ?写react项目中，使用redux怎么处理异步请求的，有哪些缺陷？
+
+5 在 写react项目中，使用过哪些UI框架？你觉得有什么优越性？对你有什么帮助？
+6 ?使用webpack打包后，测试处理过程中，具体怎么控制包大小，有什么方案？
+
+7 谈一下CSS3的一些特性和好处，对你写页面有什么启发？
+8 ?对react native,ant,ant desiger熟悉吗？有什么优点？
+
+9 混合开发中，h5与原生怎么交互的？有什么方案？
+
+10 开发过程中，怎么与后台交互？怎么约定接口？约定参数？
+web前端的攻击技术，
+vue双向数据绑定实现原理
+，
+不用v-model怎么实现数据的双向绑定，
+Slot怎么使用？
+Vue和react有什么差别？
+
+React中怎么去实现类似于vue的slot功能。
+项目中，不用框架，怎么搭建项目？
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+医药股：
 
 新天药业，天宇股份，中欣氟材，金石东方，
 
