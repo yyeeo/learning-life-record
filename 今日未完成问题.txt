@@ -903,7 +903,21 @@ https://juejin.im/entry/5afe86026fb9a07aa767e8c8?utm_source=gold_browser_extensi
 https://juejin.im/entry/5afe86026fb9a07aa767e8c8?utm_source=gold_browser_extension
 
 
+完美修复 iOS 原生键盘遮挡input框
+https://juejin.im/post/5b0401b2f265da0b71569ca0?utm_source=gold_browser_extension
+https://juejin.im/post/5b0401b2f265da0b71569ca0?utm_source=gold_browser_extension
+
+Vue: method/computed/watch的使用和区别
+https://juejin.im/entry/5b07824651882538a34c1694?utm_source=gold_browser_extension
+https://juejin.im/entry/5b07824651882538a34c1694?utm_source=gold_browser_extension
+
+
 总结下股票的买卖经验
+
+
+不要轻易追高！！！！
+
+学费什么时候才能交够
 
 
 看下海南项目的一些规范以及它的一些公共文件
