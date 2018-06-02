@@ -912,6 +912,32 @@ https://juejin.im/entry/5b07824651882538a34c1694?utm_source=gold_browser_extensi
 https://juejin.im/entry/5b07824651882538a34c1694?utm_source=gold_browser_extension
 
 
+社招中级前端笔试面试题总结-答案及拓展
+https://juejin.im/post/5b0562306fb9a07aaf3596c1?utm_source=gold_browser_extension
+https://juejin.im/post/5b0562306fb9a07aaf3596c1?utm_source=gold_browser_extension
+
+
+[译] 怎样更好地使用 Vue：我在新工作中遇到的一些问题清单
+https://juejin.im/post/5b0a36366fb9a07a9c04aca2?utm_source=gold_browser_extension
+https://juejin.im/post/5b0a36366fb9a07a9c04aca2?utm_source=gold_browser_extension
+
+
+Vue的computed和watch的细节全面分析
+https://juejin.im/entry/5b0a361df265da0dcb443d71?utm_source=gold_browser_extension
+https://juejin.im/entry/5b0a361df265da0dcb443d71?utm_source=gold_browser_extension
+
+
+微信小程序开发BUG经验总结
+https://juejin.im/post/5b0f4fb4f265da08eb04a245?utm_source=gold_browser_extension
+https://juejin.im/post/5b0f4fb4f265da08eb04a245?utm_source=gold_browser_extension
+
+
+2018年最值得关注的30个Vue开源项目
+https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extension
+https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extension
+
+
+
 总结下股票的买卖经验
 
 
