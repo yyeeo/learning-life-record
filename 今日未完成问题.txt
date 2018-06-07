@@ -937,6 +937,59 @@ https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extensi
 https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extension
 
 
+[译]如何优雅地用 Vue 创建数据驱动的用户界面
+https://juejin.im/post/5b14a9b46fb9a01e780a4323?utm_source=gold_browser_extension
+https://juejin.im/post/5b14a9b46fb9a01e780a4323?utm_source=gold_browser_extension
+
+
+[译]为什么 VueX 是前端与 API 之间的完美接口
+https://juejin.im/post/5b14d1bd6fb9a01e4508bfc1?utm_source=gold_browser_extension
+https://juejin.im/post/5b14d1bd6fb9a01e4508bfc1?utm_source=gold_browser_extension
+
+
+你不知道的Vuejs - Vuejs 最佳实践（1）
+https://juejin.im/post/5b0fd6f3f265da091c5f7ff5?utm_source=gold_browser_extension
+https://juejin.im/post/5b0fd6f3f265da091c5f7ff5?utm_source=gold_browser_extension
+
+
+你或许不知道Vue的这些小技巧
+https://juejin.im/post/5b1230c1f265da6e603933ad?utm_source=gold_browser_extension
+https://juejin.im/post/5b1230c1f265da6e603933ad?utm_source=gold_browser_extension
+
+
+JavaScript 将数组中具有相同值的对象 取出组成新的数组
+JavaScript 将数组中具有相同值的对象 取出组成新的数组
+https://www.cnblogs.com/whyue/p/8143049.html
+https://www.cnblogs.com/whyue/p/8143049.html
+
+
+Vue2 dist 目录下各个文件的区别
+https://juejin.im/post/5b1750cfe51d4506b0110893?utm_source=gold_browser_extension
+https://juejin.im/post/5b1750cfe51d4506b0110893?utm_source=gold_browser_extension
+
+
+
+前端的水平线，错误处理和调试
+https://juejin.im/post/5b1637f3e51d4506d33cf262?utm_source=gold_browser_extension
+https://juejin.im/post/5b1637f3e51d4506d33cf262?utm_source=gold_browser_extension
+
+
+移动端常见bug汇总002
+https://juejin.im/post/5b163eb5e51d4506c4751e44?utm_source=gold_browser_extension
+https://juejin.im/post/5b163eb5e51d4506c4751e44?utm_source=gold_browser_extension
+
+
+vue实践中的常见知识漏洞001
+https://juejin.im/post/5b18c50d5188251377116fe9?utm_source=gold_browser_extension
+https://juejin.im/post/5b18c50d5188251377116fe9?utm_source=gold_browser_extension
+
+
+
+任务检查 跟 验收
+
+检查的已完成那里还有点问题
+
+
 
 总结下股票的买卖经验
 
