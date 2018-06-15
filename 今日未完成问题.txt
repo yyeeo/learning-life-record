@@ -984,13 +984,26 @@ https://juejin.im/post/5b18c50d5188251377116fe9?utm_source=gold_browser_extensio
 https://juejin.im/post/5b18c50d5188251377116fe9?utm_source=gold_browser_extension
 
 
-
-任务检查 跟 验收
-
-检查的已完成那里还有点问题
-
+用vue快速开发app的脚手架工具
+https://juejin.im/post/5b192a63e51d4506c3354f18?utm_source=gold_browser_extension
+https://juejin.im/post/5b192a63e51d4506c3354f18?utm_source=gold_browser_extension
 
 
+手机端页面在项目中遇到的一些问题及解决办法
+https://juejin.im/entry/5b1cb59df265da6e6414a532?utm_source=gold_browser_extension
+https://juejin.im/entry/5b1cb59df265da6e6414a532?utm_source=gold_browser_extension
+
+
+基于Vue的SPA如何优化页面加载速度
+https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
+https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
+
+
+ES6中常用的10个新特性讲解
+https://juejin.im/post/5b1d1fd6f265da6e410e137c?utm_source=gold_browser_extension
+https://juejin.im/post/5b1d1fd6f265da6e410e137c?utm_source=gold_browser_extension
+
+ 
 总结下股票的买卖经验
 
 
