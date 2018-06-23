@@ -993,38 +993,82 @@ https://juejin.im/post/5b192a63e51d4506c3354f18?utm_source=gold_browser_extensio
 https://juejin.im/entry/5b1cb59df265da6e6414a532?utm_source=gold_browser_extension
 https://juejin.im/entry/5b1cb59df265da6e6414a532?utm_source=gold_browser_extension
 
-
 基于Vue的SPA如何优化页面加载速度
 https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
 https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
-
 
 ES6中常用的10个新特性讲解
 https://juejin.im/post/5b1d1fd6f265da6e410e137c?utm_source=gold_browser_extension
 https://juejin.im/post/5b1d1fd6f265da6e410e137c?utm_source=gold_browser_extension
 
- 
+vue-cli 3.0 使用全过程讲解
+https://juejin.im/post/5b20db8f6fb9a01e4d7ed585?utm_source=gold_browser_extension
+https://juejin.im/post/5b20db8f6fb9a01e4d7ed585?utm_source=gold_browser_extension
+
+用vue做项目的一些总结
+https://juejin.im/post/5b1e2b01f265da6e494def6b?utm_source=gold_browser_extension
+https://juejin.im/post/5b1e2b01f265da6e494def6b?utm_source=gold_browser_extension
+
+2018年最值得关注的30个Vue开源项目
+https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extension
+https://juejin.im/entry/5b0dfa9151882539e7429714?utm_source=gold_browser_extension
+
+这儿有一个使你网页性能提升10倍的工具
+https://juejin.im/post/5b156980e51d4506b942a54d?utm_source=gold_browser_extension
+https://juejin.im/post/5b156980e51d4506b942a54d?utm_source=gold_browser_extension
+
+基于Vue的SPA如何优化页面加载速度
+https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
+https://juejin.im/post/5b1cf576f265da6e4e436d54?utm_source=gold_browser_extension
+
+使用apidoc文档神器，快速生成api文档
+https://juejin.im/post/5b22250951882574874d85d5?utm_source=gold_browser_extension
+https://juejin.im/post/5b22250951882574874d85d5?utm_source=gold_browser_extension
+
+Vue Native - 用 JavaScript 和 Vue 开发原生移动应用
+https://juejin.im/entry/5b20ad0df265da6e0f70bef5?utm_source=gold_browser_extension
+https://juejin.im/entry/5b20ad0df265da6e0f70bef5?utm_source=gold_browser_extension
+
+太原面经分享：如何在vue面试环节，展示你晋级阿里P6+的技术功底？
+https://juejin.im/post/5b19e81de51d454e907bd1c5?utm_source=gold_browser_extension
+https://juejin.im/post/5b19e81de51d454e907bd1c5?utm_source=gold_browser_extension
+
+JS高级之面试必须知道的几个点
+https://juejin.im/post/5b1a512de51d45068f65ccfe?utm_source=gold_browser_extension
+https://juejin.im/post/5b1a512de51d45068f65ccfe?utm_source=gold_browser_extension
+
+CSS 常用技巧
+https://juejin.im/post/5b1f41246fb9a01e725131fb?utm_source=gold_browser_extension
+https://juejin.im/post/5b1f41246fb9a01e725131fb?utm_source=gold_browser_extension
+
+Vue 兼容 ie9 的全面解决方案
+https://juejin.im/post/5b2868b46fb9a00e6f65f87e?utm_source=gold_browser_extension
+https://juejin.im/post/5b2868b46fb9a00e6f65f87e?utm_source=gold_browser_extension
+
+
+移动H5页面微信支付踩坑之旅（微信支付、单页面路由模拟、按钮加锁、轮询等常见功能）
+https://juejin.im/post/5b27bb2fe51d4558c875dc3a?utm_source=gold_browser_extension
+https://juejin.im/post/5b27bb2fe51d4558c875dc3a?utm_source=gold_browser_extension
+
+
+这可能是vue-cli最全的解析了……
+https://juejin.im/post/5b2872516fb9a00e8626e34f?utm_source=gold_browser_extension
+https://juejin.im/post/5b2872516fb9a00e8626e34f?utm_source=gold_browser_extension
+
+浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层
+https://juejin.im/post/5b29c3bde51d45588d4d7110?utm_source=gold_browser_extension
+https://juejin.im/post/5b29c3bde51d45588d4d7110?utm_source=gold_browser_extension
+
+
 总结下股票的买卖经验
-
-
-不要轻易追高！！！！
-
-学费什么时候才能交够
-
 
 看下海南项目的一些规范以及它的一些公共文件
 
-
 ios证书的整理
-
 
 微信里面的看下 微信 文章 教程
 
-
 看下深圳户口
-
-
-看下 中国 移动 是选什么  套餐的好，18块以及 38块 
 
 看下桌面的 mui 视频教程
 
